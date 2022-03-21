@@ -1,0 +1,53 @@
+section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+
+.navbar{
+    background-color: #22355C;
+}
+ .nav-link{
+    color: white;
+}
+a :active{
+    background-color: red;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #262626;
+}
+.logo .btn{
+background-color: #82B440;
+}
+.logo-img{
+    max-height: 43px;
+}
+
+.heading{
+    display: block;
+}
+.heading img{
+    margin: 10px 400px;
+
+}
+.about-img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.features{
+    margin-bottom: 30px;
+}
+.section-title{
+    line-height: 1;
+    margin-bottom: 0;
+}
+.feature-box-content{
+    text-align: left;
+}
